@@ -3,16 +3,16 @@
     "name": "Shrestha Singh",
     "label": "Data Scientist",
     "image": "/me.webp",
-    "email": "example@email.com",
-    "phone": "+91 9999999999",
+    "email": "shresthasingh1506@gmail.com",
+    "phone": "+91 9315235626",
     "url": "https://example.com",
     "summary": "Disciplined computer science engineering professional with strong management skills and a talent for organizing events. Passionate about coding, constantly learning and growing, with strong public speaking abilities to effectively communicate complex ideas. Keen eye for detail and proven ability to lead teams to successful project completion.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "South Delhi",
+      "city": "New Delhi",
       "countryCode": "IN",
-      "region": "Delhi"
+      "region": "India"
     },
     "profiles": [
       {
@@ -26,7 +26,7 @@
     {
       "name": "ION Group",
       "position": "Data Scientist",
-      "url": "https://example.com",
+      "url": "https://iongroup.com/",
       "startDate": "",
       "endDate": null,
       "summary": "",
@@ -37,7 +37,7 @@
     {
       "name": "Samsung R&D (PRISM Intern)",
       "position": "AI Engineer",
-      "url": "https://example.com",
+      "url": "https://research.samsung.com/sri-b",
       "startDate": "2024-10-01",
       "endDate": "2025-03-01",
       "summary": "",
@@ -48,7 +48,7 @@
     {
       "name": "NRSC - National Remote Sensing Centre, New Delhi",
       "position": "Data Science Intern",
-      "url": "https://example.com",
+      "url": "https://www.nrsc.gov.in",
       "startDate": "2024-05-01",
       "endDate": "2024-07-01",
       "summary": "Successfully completed a dissertation at RRSC-North, NRSC, ISRO. Worked on \"Analyzing Nyaya Vikas Portal: Exploring Diverse Data Science Methodologies for Enhanced Insight and Efficiency.\"",
@@ -59,7 +59,7 @@
     {
       "name": "ISRO - Indian Space Research Organisation, Ahemdabad",
       "position": "Machine Learning Intern",
-      "url": "https://example.com",
+      "url": "https://www.isro.gov.in/",
       "startDate": "2023-10-01",
       "endDate": "2023-12-01",
       "summary": "Applied data science on big data of satellite to build an algorithm for the study of parameters in cyclone areas. A data science approach to ocean wind remote sensing from CYGNSS satellite observations using probability statistics.",
@@ -70,7 +70,7 @@
     {
       "name": "IMD - India Meteorological Department, New Delhi",
       "position": "IoT/Machine Learning Intern",
-      "url": "https://example.com",
+      "url": "https://mausam.imd.gov.in/",
       "startDate": "2023-08-01",
       "endDate": "2023-09-01",
       "summary": "Worked on bidirectional visitor counter using Raspberry Pi Pico; conducted research on it for situations like Covid 19.",
