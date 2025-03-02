@@ -294,25 +294,8 @@
       "highlights": [
         ""
       ],
-      "url": "https://github.com/shresthasingh1501/Seamless-AI"
-    },
-    {
-      "name": "Dyslexia-Friendly Reading Assistant",
-      "isActive": true,
-      "description": "This project introduces a powerful and user-friendly reading assistant designed to support individuals with dyslexia. By leveraging the capabilities of OpenAIs GPT-4 Vision and Text-to-Speech API, this application transforms images of text into an accessible and engaging reading experience.",
-      "highlights": [
-        ""
-      ],
-      "url": "https://example.com"
-    },
-    {
-      "name": "Smart Home Assistant",
-      "isActive": true,
-      "description": "This project empowers you to control your smart home devices using natural language voice commands. Leveraging the power of OpenAIs GPT-4 and Whisper models, this assistant understands your intent and translates it into actionable instructions. Imagine controlling your lights, music, and more with just your voice!",
-      "highlights": [
-        ""
-      ],
-      "url": "https://example.com"
+      "url": "https://github.com/shresthasingh1501/Seamless-AI",
+      "github": "https://github.com/shresthasingh1501/Seamless-AI"
     },
     {
       "name": "Rachel.AI",
@@ -321,7 +304,8 @@
       "highlights": [
         ""
       ],
-      "url": "https://github.com/shresthasingh1501/rachel.ai"
+      "url": "https://github.com/shresthasingh1501/rachel.ai",
+      "github": "https://github.com/shresthasingh1501/rachel.ai"
     },
     {
       "name": "Legal Document Analysis",
@@ -330,7 +314,8 @@
       "highlights": [
         ""
       ],
-      "url": "https://github.com/shresthasingh1501/legal_document_analysis"
+      "url": "https://github.com/shresthasingh1501/legal_document_analysis",
+      "github": "https://github.com/shresthasingh1501/legal_document_analysis"
     },
     {
       "name": "Scenario Weaver",
@@ -339,7 +324,8 @@
       "highlights": [
         ""
       ],
-      "url": "https://github.com/shresthasingh1501/Scenario-Weaver"
+      "url": "https://github.com/shresthasingh1501/Scenario-Weaver",
+       "github": "https://github.com/shresthasingh1501/Scenario-Weaver"
     },
     {
       "name": "Replica",
@@ -348,16 +334,8 @@
       "highlights": [
         ""
       ],
-      "url": "https://github.com/shresthasingh1501/replica"
-    },
-    {
-      "name": "AI-Enhanced Monitoring System Using Visual Learning Models",
-      "isActive": true,
-      "description": "AI-powered judiciary infrastructure monitoring. Leverages visual learning models, Moondream2 and Gemini-1.5-Flash, to enhance construction project oversight. Includes multilingual chatbot support.",
-      "highlights": [
-        ""
-      ],
-      "url": "https://example.com"
+      "url": "https://github.com/shresthasingh1501/replica",
+      "github": "https://github.com/shresthasingh1501/replica"
     },
     {
       "name": "STELLA - Smart Text Extraction, Learning, and Language Assistant (v2)",
@@ -366,7 +344,8 @@
       "highlights": [
         ""
       ],
-      "url": "https://github.com/shresthasingh1501/stella-v2"
+      "url": "https://github.com/shresthasingh1501/stella-v2",
+      "github": "https://github.com/shresthasingh1501/stella-v2"
     }
   ]
 }
