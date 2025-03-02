@@ -1,0 +1,372 @@
+{
+  "basics": {
+    "name": "Shrestha Singh",
+    "label": "Data Scientist",
+    "image": "/me.webp",
+    "email": "example@email.com",
+    "phone": "+91 9999999999",
+    "url": "https://example.com",
+    "summary": "Disciplined computer science engineering professional with strong management skills and a talent for organizing events. Passionate about coding, constantly learning and growing, with strong public speaking abilities to effectively communicate complex ideas. Keen eye for detail and proven ability to lead teams to successful project completion.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "South Delhi",
+      "countryCode": "IN",
+      "region": "Delhi"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "shrestha-singh-275999228",
+        "url": "https://www.linkedin.com/in/shrestha-singh-275999228/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ION Group",
+      "position": "Data Scientist",
+      "url": "https://example.com",
+      "startDate": "",
+      "endDate": null,
+      "summary": "",
+      "highlights": [
+        "Placeholder highlight"
+      ]
+    },
+    {
+      "name": "Samsung R&D (PRISM Intern)",
+      "position": "AI Engineer",
+      "url": "https://example.com",
+      "startDate": "2024-10-01",
+      "endDate": "2025-03-01",
+      "summary": "",
+      "highlights": [
+        "Placeholder highlight"
+      ]
+    },
+    {
+      "name": "NRSC - National Remote Sensing Centre, New Delhi",
+      "position": "Data Science Intern",
+      "url": "https://example.com",
+      "startDate": "2024-05-01",
+      "endDate": "2024-07-01",
+      "summary": "Successfully completed a dissertation at RRSC-North, NRSC, ISRO. Worked on \"Analyzing Nyaya Vikas Portal: Exploring Diverse Data Science Methodologies for Enhanced Insight and Efficiency.\"",
+      "highlights": [
+        "Placeholder highlight"
+      ]
+    },
+    {
+      "name": "ISRO - Indian Space Research Organisation, Ahemdabad",
+      "position": "Machine Learning Intern",
+      "url": "https://example.com",
+      "startDate": "2023-10-01",
+      "endDate": "2023-12-01",
+      "summary": "Applied data science on big data of satellite to build an algorithm for the study of parameters in cyclone areas. A data science approach to ocean wind remote sensing from CYGNSS satellite observations using probability statistics.",
+      "highlights": [
+        "Placeholder highlight"
+      ]
+    },
+    {
+      "name": "IMD - India Meteorological Department, New Delhi",
+      "position": "IoT/Machine Learning Intern",
+      "url": "https://example.com",
+      "startDate": "2023-08-01",
+      "endDate": "2023-09-01",
+      "summary": "Worked on bidirectional visitor counter using Raspberry Pi Pico; conducted research on it for situations like Covid 19.",
+      "highlights": [
+        "Placeholder highlight"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Muskurahat Foundation",
+      "position": "Fundraising Intern",
+      "url": "https://example.com",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "summary": "Placeholder summary.",
+      "highlights": [
+        "Placeholder highlight"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "VIT Chennai",
+      "url": "https://example.com",
+      "area": "Computer Science (Specialization in AI and Robotics)",
+      "studyType": "B.Tech CSE",
+      "startDate": "2021-01-01",
+      "endDate": "2025-01-01",
+      "score": "8.56",
+      "courses": [
+        "Placeholder Course"
+      ]
+    },
+    {
+      "institution": "Laxman Public School",
+      "url": "https://example.com",
+      "area": "12th Higher Secondary Certificate",
+      "studyType": "",
+      "startDate": "2019-01-01",
+      "endDate": "2020-12-31",
+      "score": "92.6",
+      "courses": [
+        "Placeholder Course"
+      ]
+    },
+    {
+      "institution": "Laxman Public School",
+      "url": "https://example.com",
+      "area": "10th Secondary School Certificate",
+      "studyType": "",
+      "startDate": "2008-01-01",
+      "endDate": "2018-12-31",
+      "score": "91.6",
+      "courses": [
+        "Placeholder Course"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Winner, Generative AI Hackathon (Language AI)",
+      "date": "2024-05-01",
+      "awarder": "Samsung PRISM Team",
+      "summary": "Our team, UnderGod, emerged victorious in the Generative AI Hackathon (Language AI) organized by Samsung PRISM Team at Vellore Institute of Technology. Project: Seamless AI"
+    },
+    {
+      "title": "Winner, Valeo AI for Sustainability Hackathon",
+      "date": "2024-04-01",
+      "awarder": "Valeo",
+      "summary": "Our focus on sustainable product design reflects our commitment to environmental stewardship."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Advanced Google Analytics",
+      "date": "2023-05-01",
+      "issuer": "Google",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Cloud computing with AWS",
+      "date": "2023-05-01",
+      "issuer": "DevTown",
+      "url": "https://example.com"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "Tensorflow",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "OpenCV",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "Numpy",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "Pytorch",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "Matlab",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "GCP",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+      "name": "C++",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+      {
+      "name": "Gen AI",
+      "level": "Placeholder",
+      "keywords": [
+        "Placeholder keyword"
+      ]
+    },
+    {
+        "name": "Large Language Models (LLM)",
+        "level": "Placeholder",
+        "keywords": [
+        "Placeholder keyword"
+      ]
+    }
+  ],
+  "languages": [
+     {
+      "language": "Placeholder language",
+      "fluency": "Placeholder speaker"
+    }
+  ],
+  "interests": [
+     {
+    "name": "Placeholder Interest",
+    "keywords": [
+      "Placeholder",
+      "Placeholder"
+    ]
+  }
+  ],
+  "references": [
+    {
+    "name": "Placeholder Doe",
+    "reference": "Reference…"
+  }
+  ],
+  "projects": [
+    {
+      "name": "Seamless AI",
+      "isActive": true,
+      "description": "Developed an advanced AI suite that integrates natural language processing, computer vision, and multimodal capabilities. This project supports 11 widely spoken Indian languages, including low-resource languages, providing a unified and intuitive experience for users across various input modes and languages.",
+      "highlights": [
+        ""
+      ],
+      "url": "https://github.com/shresthasingh1501/Seamless-AI"
+    },
+    {
+      "name": "Dyslexia-Friendly Reading Assistant",
+      "isActive": true,
+      "description": "This project introduces a powerful and user-friendly reading assistant designed to support individuals with dyslexia. By leveraging the capabilities of OpenAIs GPT-4 Vision and Text-to-Speech API, this application transforms images of text into an accessible and engaging reading experience.",
+      "highlights": [
+        ""
+      ],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Smart Home Assistant",
+      "isActive": true,
+      "description": "This project empowers you to control your smart home devices using natural language voice commands. Leveraging the power of OpenAIs GPT-4 and Whisper models, this assistant understands your intent and translates it into actionable instructions. Imagine controlling your lights, music, and more with just your voice!",
+      "highlights": [
+        ""
+      ],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Rachel.AI",
+      "isActive": true,
+      "description": "Your AI Paralegal Assistant ,Revolutionize your legal operations with our open-source AIassistant. Ingest, summarize, question, and analyze thousands of casefiles with ease.",
+      "highlights": [
+        ""
+      ],
+      "url": "https://github.com/shresthasingh1501/rachel.ai"
+    },
+    {
+      "name": "Legal Document Analysis",
+      "isActive": true,
+      "description": "Effortlessly analyze legal documents using Natural Language Processing (NLP). Summarize legal documents, identify entities like individuals, organizations, and locations, and extract key information.",
+      "highlights": [
+        ""
+      ],
+      "url": "https://github.com/shresthasingh1501/legal_document_analysis"
+    },
+    {
+      "name": "Scenario Weaver",
+      "isActive": true,
+      "description": "Transforms the way emergency dispatchers are trained and evaluated. With the power of advanced AI models like Google's Gemini, it generates realistic and dynamic simulation scenarios, preparing dispatchers to handle critical situations with confidence and precision.",
+      "highlights": [
+        ""
+      ],
+      "url": "https://github.com/shresthasingh1501/Scenario-Weaver"
+    },
+    {
+      "name": "Replica",
+      "isActive": true,
+      "description": "Allows you to create a personalized AI clone, utilizing various APIs to provide a dynamic experience.",
+      "highlights": [
+        ""
+      ],
+      "url": "https://github.com/shresthasingh1501/replica"
+    },
+    {
+      "name": "AI-Enhanced Monitoring System Using Visual Learning Models",
+      "isActive": true,
+      "description": "AI-powered judiciary infrastructure monitoring. Leverages visual learning models, Moondream2 and Gemini-1.5-Flash, to enhance construction project oversight. Includes multilingual chatbot support.",
+      "highlights": [
+        ""
+      ],
+      "url": "https://example.com"
+    },
+    {
+      "name": "STELLA - Smart Text Extraction, Learning, and Language Assistant (v2)",
+      "isActive": true,
+      "description": "Powerful, context-aware chatbot designed to provide accurate and grounded answers to user queries based on a comprehensive knowledge base. Leverages advanced techniques like multi-faceted retrieval, self-reasoning, and an anti-hallucination engine.",
+      "highlights": [
+        ""
+      ],
+      "url": "https://github.com/shresthasingh1501/stella-v2"
+    }
+  ]
+}
